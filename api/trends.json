@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T20:39:43.149259+08:00",
-  "total_titles_processed": 1710,
+  "generated_at": "2025-11-28T21:31:07.682471+08:00",
+  "total_titles_processed": 1805,
   "failed_sources": [],
   "trends": [
     {
@@ -85,8 +85,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时10分 ~ 20时39分]"
+          "appearance_count": 16,
+          "time_info": "[11时10分 ~ 21时31分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -488,7 +488,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         }
@@ -521,8 +521,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时18分 ~ 20时39分]"
+          "appearance_count": 20,
+          "time_info": "[07时18分 ~ 21时31分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -564,8 +564,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时19分 ~ 20时39分]"
+          "appearance_count": 11,
+          "time_info": "[15时19分 ~ 21时31分]"
         },
         {
           "title": "DeepSeek推出新模型",
@@ -693,8 +693,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时23分 ~ 20时39分]"
+          "appearance_count": 19,
+          "time_info": "[09时23分 ~ 21时31分]"
         },
         {
           "title": "新一轮牛市已在路上？华尔街纷纷给美股定下高目标价",
