@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T20:42:24.038540+08:00",
-  "total_titles_processed": 1870,
+  "generated_at": "2025-12-10T22:10:24.181387+08:00",
+  "total_titles_processed": 1989,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 74,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -234,7 +234,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -262,6 +262,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时27分 ~ 07时19分]"
+        },
+        {
+          "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时23分 ~ 22时10分]"
         },
         {
           "title": "据英国金融时报，美国总统特朗普在回应和平计划方面向乌克兰总统泽连斯基提供了“几天时间”。",
@@ -350,19 +363,6 @@
           "time_info": "[12时32分 ~ 14时32分]"
         },
         {
-          "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 20时42分]"
-        },
-        {
           "title": "泽连斯基回应特朗普：可在60至90天做好选举准备",
           "url": "https://news.ifeng.com/c/8oxUGggjWaR",
           "source": "凤凰网",
@@ -383,6 +383,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时23分 ~ 19时18分]"
+        },
+        {
+          "title": "特朗普要搞“美联储主席最终面试”，哈塞特尚未“板上钉钉”，贝森特仍有望后续接任？",
+          "url": "https://wallstreetcn.com/articles/3761053",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 22时10分]"
         },
         {
           "title": "欧盟重罚X平台遭特朗普抨击",
@@ -445,15 +456,15 @@
           "time_info": "[04时47分 ~ 05时17分]"
         },
         {
-          "title": "特朗普要搞“美联储主席最终面试”，哈塞特尚未“板上钉钉”，贝森特仍有望后续接任？",
-          "url": "https://wallstreetcn.com/articles/3761053",
-          "source": "华尔街见闻",
+          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
+          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
+          "source": "凤凰网",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时23分 ~ 18时24分]"
+          "time_info": "[20时42分 ~ 22时10分]"
         },
         {
           "title": "特朗普继续数落欧洲 德总理：要做好“欧美不同行”的准备",
@@ -501,6 +512,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时32分 ~ 12时33分]"
+        },
+        {
+          "title": "特朗普夸白宫发言人漂亮",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E6%BC%82%E4%BA%AE",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 22时10分]"
         },
         {
           "title": "据福克斯新闻：以为知情人士透露，美国总统特朗普尚未与司法部反垄断部门会面，就派拉蒙天舞、奈飞(NFLX.O)和华纳兄弟探索公司(WBD.O)之间的交易问题表达其意见。",
@@ -556,17 +578,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
-        },
-        {
-          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
-          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
         },
         {
           "title": "美国贸易办公室（USTR）代表格里尔在参议院听证会谈及墨西哥和加拿大对USMCA问题的反应，表示：加拿大并没有在那些（美国总统特朗普）重视的领域遵守承诺。 正与墨西哥密切合作，他们是“讲求实际的”。 预计2026年1月份，美墨加将为了修订USMCA而坐下来（讨论）。",
@@ -734,6 +745,17 @@
           "time_info": "09时29分"
         },
         {
+          "title": "雪佛龙首席执行官沃斯：雪佛龙在委内瑞拉拥有“重要”的业务。正与美国总统特朗普政府就委内瑞拉问题进行磋商。",
+          "url": "https://flash.jin10.com/detail/20251210212542950800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "泽连斯基回应特朗普：乌方愿举行选举",
           "url": "https://flash.jin10.com/detail/20251209235223915800",
           "source": "金十数据",
@@ -762,7 +784,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -784,20 +806,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
         {
-          "title": "特朗普夸白宫发言人漂亮",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E6%BC%82%E4%BA%AE",
-          "source": "百度热搜",
+          "title": "德国总理默茨：我们希望美国未来成为我们的伙伴，这一点我已向美国总统特朗普表明。",
+          "url": "https://flash.jin10.com/detail/20251210211820992800",
+          "source": "金十数据",
           "ranks": [
-            28
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时42分"
+          "time_info": "22时10分"
         },
         {
           "title": "英媒：特朗普“施压”泽连斯基几日内回应和平提议 盼圣诞前达成协议",
@@ -809,6 +831,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "德国总理默茨：我下次见到美国总统特朗普时，会告诉他，我们在移民政策上取得了成功。",
+          "url": "https://flash.jin10.com/detail/20251210211806034800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "特朗普谈泰柬冲突：我得打个电话",
@@ -836,7 +869,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
@@ -885,6 +918,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "阿里巴巴美股盘前涨超4%，百度涨2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3018495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（12月9日），美国科技股七巨头（Magnificent 7）指数涨0.11%，报208.56点。 “超大”市值科技股指数涨0.37%，报406.51点，低开后美股早盘持续收复失地并转涨，日内大部分时间高位窄幅震荡。",
@@ -958,6 +1002,28 @@
           "time_info": "[04时47分 ~ 05时17分]"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3018491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-10）",
+          "url": "https://flash.jin10.com/detail/20251210214414427800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一 摩根大通跌近5%",
           "url": "https://flash.jin10.com/detail/20251210050109549800",
           "source": "金十数据",
@@ -1015,8 +1081,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时28分 ~ 20时42分]"
+          "appearance_count": 15,
+          "time_info": "[09时28分 ~ 22时10分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -1060,7 +1126,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -1082,9 +1148,85 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "OpenAI和Block参与创立Linux基金会旗下的“Agentic AI基金会（AAIF）”。 Anthropic称，将模型内容协议捐赠给AAIF。",
+          "url": "https://wallstreetcn.com/livenews/3017827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时15分]"
+        },
+        {
+          "title": "OpenAI宣布在Linux基金会下共同创立Agentic AI基金会",
+          "url": "https://flash.jin10.com/detail/20251210021330401800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 03时15分]"
+        },
+        {
+          "title": "OpenAI：任命Denise Dresser为首席营收官（CRO）。 Dresser近期主要担任Slack的首席执行官（CEO）。",
+          "url": "https://wallstreetcn.com/livenews/3017848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 04时47分]"
+        },
+        {
+          "title": "ChatGPT周活跃用户数接近9亿。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3017782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "OpenAI：Denise Dresser将加入OpenAI担任首席营收官。",
+          "url": "https://flash.jin10.com/detail/20251210024251829800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "Adobe：将Adobe Photoshop、Adobe Express、Adobe Acrobat直接引入ChatGPT。 将在接下来的几周内，继续为ChatGPT中的Adobe应用添加新功能。",
+          "url": "https://wallstreetcn.com/livenews/3018469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         }
       ]
     },
@@ -1145,71 +1287,6 @@
           "source": "金十数据",
           "ranks": [
             20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "OpenAI和Block参与创立Linux基金会旗下的“Agentic AI基金会（AAIF）”。 Anthropic称，将模型内容协议捐赠给AAIF。",
-          "url": "https://wallstreetcn.com/livenews/3017827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时15分]"
-        },
-        {
-          "title": "OpenAI宣布在Linux基金会下共同创立Agentic AI基金会",
-          "url": "https://flash.jin10.com/detail/20251210021330401800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 03时15分]"
-        },
-        {
-          "title": "OpenAI：任命Denise Dresser为首席营收官（CRO）。 Dresser近期主要担任Slack的首席执行官（CEO）。",
-          "url": "https://wallstreetcn.com/livenews/3017848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时47分]"
-        },
-        {
-          "title": "ChatGPT周活跃用户数接近9亿。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3017782",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "OpenAI：Denise Dresser将加入OpenAI担任首席营收官。",
-          "url": "https://flash.jin10.com/detail/20251210024251829800",
-          "source": "金十数据",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 1,
