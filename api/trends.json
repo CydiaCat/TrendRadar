@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T18:21:59.866839+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2025-12-26T19:18:55.492877+08:00",
+  "total_titles_processed": 1490,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时24分 ~ 18时21分]"
+          "appearance_count": 11,
+          "time_info": "[11时24分 ~ 19时18分]"
         },
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -130,8 +130,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时18分]"
         },
         {
           "title": "特朗普人事强震引爆新争议",
@@ -151,7 +151,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -270,8 +270,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时24分 ~ 18时21分]"
+          "appearance_count": 11,
+          "time_info": "[11时24分 ~ 19时18分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -482,7 +482,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         }
