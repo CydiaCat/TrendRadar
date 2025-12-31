@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T12:38:14.749597+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2025-12-31T13:24:48.472398+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -91,6 +91,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "据英国金融时报：由特朗普集团推出的手机公司Trump Mobile已推迟原定于今年年底发售金色智能手机的计划。",
+          "url": "https://flash.jin10.com/detail/20251231130723991800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "特朗普为何称不担心解放军绕台军演",
           "url": "https://www.toutiao.com/trending/7589509514882891795/",
           "source": "今日头条",
@@ -134,8 +145,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 12时38分]"
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 13时24分]"
         },
         {
           "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
@@ -266,8 +277,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时19分 ~ 12时38分]"
+          "appearance_count": 6,
+          "time_info": "[07时19分 ~ 13时24分]"
         },
         {
           "title": "白银价格大幅反弹 美股三大期指微跌 | 今夜看点",
@@ -684,11 +695,12 @@
           "source": "抖音",
           "ranks": [
             26,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时40分 ~ 11时27分]"
+          "appearance_count": 3,
+          "time_info": "[09时40分 ~ 13时24分]"
         }
       ]
     }
