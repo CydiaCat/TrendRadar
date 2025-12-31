@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T11:27:18.723573+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2025-12-31T12:38:14.749597+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
@@ -97,7 +97,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -124,6 +124,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时20分]"
+        },
+        {
+          "title": "中方回应特朗普涉东部战区军演言论",
+          "url": "https://www.toutiao.com/trending/7589836293949902363/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 12时38分]"
         },
         {
           "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
@@ -161,17 +173,6 @@
           "time_info": "[01时20分 ~ 02时31分]"
         },
         {
-          "title": "中方回应特朗普涉东部战区军演言论",
-          "url": "https://www.toutiao.com/trending/7589836293949902363/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
           "title": "周二（12月30日），降息赢家指数跌0.33%，报99.34点。 “特朗普关税输家”指数跌0.70%，报111.29点。 “特朗普金融指数”跌0.60%，报173.74点。 散户抱团概念股指数/迷因股（meme stock）指数跌0.97%，报15.49点。",
           "url": "https://wallstreetcn.com/livenews/3028928",
           "source": "华尔街见闻-快讯",
@@ -189,7 +190,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -265,8 +266,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 11时27分]"
+          "appearance_count": 5,
+          "time_info": "[07时19分 ~ 12时38分]"
         },
         {
           "title": "白银价格大幅反弹 美股三大期指微跌 | 今夜看点",
@@ -470,7 +471,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         }
