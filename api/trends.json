@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-19T16:32:48.675938+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-01-19T18:29:13.221881+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 67,
       "titles": [
+        {
+          "title": "欧洲8国集体回应特朗普关税威胁",
+          "url": "https://news.ifeng.com/c/8q27ChONuGJ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时46分 ~ 18时29分]"
+        },
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”",
           "url": "https://news.ifeng.com/c/8q1PDnUocDO",
@@ -41,18 +54,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时24分 ~ 07时20分]"
-        },
-        {
-          "title": "欧洲8国集体回应特朗普关税威胁",
-          "url": "https://news.ifeng.com/c/8q27ChONuGJ",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时46分 ~ 16时32分]"
         },
         {
           "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
@@ -104,6 +105,19 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时24分 ~ 13时31分]"
+        },
+        {
+          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
+          "url": "https://wallstreetcn.com/articles/3763548",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时51分 ~ 18时29分]"
         },
         {
           "title": "联合国秘书长古特雷斯：（当被问及特朗普提出的和平委员会倡议时）会员国可以自由组成不同的团体。",
@@ -238,18 +252,6 @@
           "time_info": "[03时15分 ~ 07时20分]"
         },
         {
-          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
-          "url": "https://wallstreetcn.com/articles/3763548",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时51分 ~ 16时32分]"
-        },
-        {
           "title": "伊朗：将追究特朗普等人责任",
           "url": "https://news.ifeng.com/c/8q2B9XoMclS",
           "source": "凤凰网",
@@ -274,6 +276,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时24分 ~ 05时19分]"
+        },
+        {
+          "title": "金十整理：从突袭委内瑞拉、威胁伊朗到为格陵兰岛对欧发动关税战，特朗普开年三周的“三连击”将如何搅动市场？",
+          "url": "https://flash.jin10.com/detail/20260119182634326800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "美国财长贝森特：特朗普致力于保障美联储的独立性。我们有四位出色的美联储主席候选人。认为参议院会对这四位候选人的任何一位当选感到满意。",
@@ -306,9 +319,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "英镑兑美元短线波动不大，此前英国首相斯塔默对特朗普的加征关税威胁亮明立场：“大错特错”",
+          "url": "https://wallstreetcn.com/livenews/3039707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "高盛：特朗普破坏性政策频发 料引发新一轮资金逃离美国资产",
+          "url": "https://wallstreetcn.com/livenews/3039703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "德国财长Klingbeil：欧洲不会因格陵兰岛问题被美国勒索。 欧洲在准备应对美国威胁的反制措施。 无意令贸易局势升级，也不寻求升级。 欧洲愿意与美国在贸易问题上折中。 欧洲应该研究如何利用现有工具。 由于特朗普的挑衅，已经触及了“红线”。",
@@ -317,7 +352,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -511,6 +546,17 @@
           "time_info": "[12时51分 ~ 13时31分]"
         },
         {
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
+        },
+        {
           "title": "特朗普发黑白照：我是关税之王(图)",
           "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
           "source": "凤凰网",
@@ -568,6 +614,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时52分 ~ 13时31分]"
+        },
+        {
+          "title": "特朗普：“解决俄罗斯对格陵兰岛威胁”时机已到",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414383",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
         },
         {
           "title": "特朗普称将“清除格陵兰岛俄罗斯威胁”",
@@ -628,6 +685,17 @@
           "time_info": "14时38分"
         },
         {
+          "title": "英媒：特朗普撼动世界，世界却爱上中国",
+          "url": "https://wallstreetcn.com/livenews/3039698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "消息人士：格陵兰岛只是开胃菜，特朗普的下一个目标是加拿大",
           "url": "https://flash.jin10.com/detail/20260119141748687800",
           "source": "金十数据",
@@ -667,7 +735,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -689,7 +757,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -711,9 +779,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "出于多重考虑 特朗普没有下达对伊朗动武指令",
+          "url": "https://wallstreetcn.com/livenews/3039672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "美媒：特朗普就职一周年满意度下降",
@@ -730,7 +809,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "世界周刊之伊朗危机",
@@ -782,9 +861,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "法国总统办公室：法国总统马克龙将于中午召开国防和国家安全会议。会议将讨论格陵兰岛、叙利亚和伊朗。",
+          "url": "https://flash.jin10.com/detail/20260119182051551800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "伊朗外交部：美国干涉应为美伊关系紧张负责",
@@ -844,7 +934,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         }
@@ -852,7 +942,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股明日休市 金银油交易提前结束",
@@ -867,13 +957,24 @@
           "time_info": "[00时24分 ~ 05时19分]"
         },
         {
+          "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
+        },
+        {
           "title": "格陵兰引发美欧关税战风险，欧美股指期货齐跌，金银再创新高，铜价逼近13000",
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
